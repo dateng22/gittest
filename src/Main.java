@@ -8,6 +8,7 @@ public class Main {
         System.out.println("master操作");
         System.out.println("dev提交");
         System.out.println("mmmaster操作");
+        System.out.println("修了bug" );
 
 
     }
